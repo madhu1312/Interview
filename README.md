@@ -3,10 +3,9 @@ Coding exercise for interview screening
 
 * Set a vue cli project  - https://cli.vuejs.org/guide/creating-a-project.html
 * Install cypress https://www.cypress.io/
-* Set up the project with page object model 
 * Please demonstrate your coding skills by implementing ONE of the UI testing projects below using Cypress (the team will be expecting a runnable test automation).
-* Make sure to FORK this repo and push a PR with your code to the forked repo. DO NOT PUSH any changes to this main repo. 
 * As bonus, show us what you know about API testing using Cypress by implementing the API testing project below (not a requirement)
+* Please email us the link to your github projects with this work
 
 **UI Testing projects**
 1. Write automation to test the timestamping conversion tool in https://www.epochconverter.com
