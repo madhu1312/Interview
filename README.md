@@ -11,15 +11,15 @@ Coding exercise for interview screening
 1. Write automation to test the timestamping conversion tool in https://www.epochconverter.com
     * List the test scenarios you think should be automated.
     * Implement at least 2 scenarios
-    * Add as much detaile as possible when listing the scenarios and in the implementation as well
+    * Be detailed when listing the scenarios and in the implementation as well
 2. Write automation to test this to-do list website http://todomvc-app-for-testing.surge.sh/
     * List the test scenarios you think should be automated
     * Implement at least 2 scenarios
-    * Add as much detaile as possible when listing the scenarios and in the implementation as well
+    * Be detailed when listing the scenarios and in the implementation as well
 3. Write automation to test the search and add to cart flow from http://opencart.abstracta.us/index.php
     * List the test scenarios you think should be automated
     * Implement at least 2 scenarios
-    * Add as much detaile as possible when listing the scenarios and in the implementation as well
+    * Be detailed when listing the scenarios and in the implementation as well
 
 **API Testing project**
 1. Write the automation for this api request https://jsonplaceholder.cypress.io/posts
